@@ -40,7 +40,7 @@ flutter --version
 
 2. Clone the repository
 ```bash
-git clone https://github.com/yourusername/moviebookingapp.git
+git clone https://github.com/AnjanaMurugan/MovieBookingApp.git
 ```
 
 3. Navigate to project directory
